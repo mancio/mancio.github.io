@@ -1,2 +1,0 @@
-.game-button-list{display:grid;grid-template-columns:auto auto auto;justify-content:space-evenly;width:1300px;height:auto;border:2px solid #ccc;padding-top:25px;padding-bottom:25px;box-shadow:0 0 11px 22px #e317e3;outline:5px dashed #00ced1;border-radius:6px;animation:changeColor 7s infinite}@keyframes changeColor{25%{box-shadow:0 0 11px 22px #e3d917}50%{box-shadow:0 0 11px 22px #1ee317}75%{box-shadow:0 0 11px 22px #171ae3}to{box-shadow:0 0 11px 22px #e317e3}}.game-list-container{padding-top:40px;padding-bottom:40px}
-/*# sourceMappingURL=21.a520fc35.chunk.css.map */
